@@ -26,6 +26,8 @@ creator:
     gutenberg_agent_id: '41697'
     url: http://www.gutenberg.org/2009/agents/41697
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42139#The-English-Lakes
 gutenberg_issued: '2013-02-20'
 gutenberg_type: Text
 identifiers:
